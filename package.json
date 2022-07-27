@@ -1,5 +1,5 @@
 {
-  "name": "midori-framework",
+  "name": "midori-common",
   "version": "1.0.0",
   "description": "The library for the \"everything included\" webframework for NodeJs.",
   "main": "index.js",
